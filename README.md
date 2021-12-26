@@ -1,2 +1,2 @@
 # Mathematics-of-Deep-Learning
-Lecture notes, ebooks &amp; learning materials for mathematics foundations of deep learning.
+A curated list of awesome learning resources for mathematics foundations for building deep learning frameworks.
