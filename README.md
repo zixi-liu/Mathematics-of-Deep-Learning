@@ -3,6 +3,6 @@ A curated list of awesome learning resources for mathematics foundations for bui
 
 ## Mathematics & Statistics
 
-- [Probabilistic graphical models] [[Lecture Notes]](https://cedar.buffalo.edu/~srihari/CSE674/) 
-- [Discrete Mathematics, Oscar Levin] [[PDf]](http://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf)
+- **Probabilistic graphical models** [[Lecture Notes]](https://cedar.buffalo.edu/~srihari/CSE674/) 
+- **Discrete Mathematics, Oscar Levin** [[PDF]](http://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf)
 
