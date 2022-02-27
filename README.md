@@ -16,4 +16,4 @@ A curated list of awesome learning resources for mathematics foundations for bui
 
 - **The Elements of Statistical Learning** [[Book]](https://esl.hohoweiya.xyz/book/The%20Elements%20of%20Statistical%20Learning.pdf)
 
-## Computer Science
+## Programming
