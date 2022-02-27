@@ -18,7 +18,11 @@ A curated list of awesome learning resources for mathematics foundations for bui
 - **The Modern Mathematics of Deep Learning** [[arXiv]](https://arxiv.org/pdf/2105.04026.pdf)
 - **An Overview of Statistical Learning Theory** [[IEEE]](http://www.mit.edu/~6.454/www_spring_2001/emin/slt.pdf)
 
+## Deep Learning 
+- **GAN for Medical Imaging** [[Github]](https://github.com/xinario/awesome-gan-for-medical-imaging)
+
 ## Programming
 
 - **Object-Oriented Neural Networks in C++, Joey Rogers** 
 - **Operating System Concepts, Abraham Silberschatz** [[Book]](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
+
