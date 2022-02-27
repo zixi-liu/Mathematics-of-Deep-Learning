@@ -16,6 +16,7 @@ A curated list of awesome learning resources for mathematics foundations for bui
 
 - **The Elements of Statistical Learning** [[Book]](https://esl.hohoweiya.xyz/book/The%20Elements%20of%20Statistical%20Learning.pdf)
 - **The Modern Mathematics of Deep Learning** [[arXiv]](https://arxiv.org/pdf/2105.04026.pdf)
+- **An Overview of Statistical Learning Theory** [[IEEE]](http://www.mit.edu/~6.454/www_spring_2001/emin/slt.pdf)
 
 ## Programming
 
