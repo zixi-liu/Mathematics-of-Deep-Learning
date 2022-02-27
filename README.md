@@ -11,3 +11,6 @@ A curated list of awesome learning resources for mathematics foundations for bui
 - **Analysis I, Terence Tao** [[Book]](https://github.com/zixi-liu/Mathematics-of-Deep-Learning/blob/main/Mathematics/Analysis%20I%20Terence%20Tao.pdf)
 - **Analysis II, Terence Tao** [[Book]](https://github.com/zixi-liu/Mathematics-of-Deep-Learning/blob/main/Mathematics/Analysis%20II%20Terence%20Tao.pdf)
 
+## Statistical Learning
+
+## Computer Science
