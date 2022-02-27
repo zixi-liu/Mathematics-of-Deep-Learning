@@ -17,3 +17,6 @@ A curated list of awesome learning resources for mathematics foundations for bui
 - **The Elements of Statistical Learning** [[Book]](https://esl.hohoweiya.xyz/book/The%20Elements%20of%20Statistical%20Learning.pdf)
 
 ## Programming
+
+- **Object-Oriented Neural Networks in C++, Joey Rogers** 
+- **Operating System Concepts, Abraham Silberschatz** [[Book]](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
