@@ -25,6 +25,7 @@ A curated list of awesome learning resources for mathematics foundations for bui
 ## Graph ML
 
 - Graph Theory with Applications to Engineering and Computer Science [[Book]](https://www.shahucollegelatur.org.in/Department/Studymaterial/sci/it/BCS/FY/book.pdf)
+- Elements of Graphical Models [[Book]](http://www.stats.ox.ac.uk/~steffen/teaching/gm10/stflournotes.pdf)
 
 ## Programming
 
