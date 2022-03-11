@@ -21,6 +21,7 @@ A curated list of awesome learning resources for mathematics foundations for bui
 
 ## Deep Learning 
 - GAN for Medical Imaging [[Github]](https://github.com/xinario/awesome-gan-for-medical-imaging)
+- Neural Network and Deep Learning [[Book, Chinese Version]](https://nndl.github.io/nndl-book.pdf)
 
 ## Graph ML
 
